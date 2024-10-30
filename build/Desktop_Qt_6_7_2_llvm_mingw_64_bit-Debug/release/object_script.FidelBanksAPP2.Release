@@ -1,0 +1,11 @@
+release/addbox.o
+release/findbox.o
+release/finddelbox.o
+release/main.o
+release/mainwindow.o
+release/updatebox.o
+release/moc_addbox.o
+release/moc_findbox.o
+release/moc_finddelbox.o
+release/moc_mainwindow.o
+release/moc_updatebox.o

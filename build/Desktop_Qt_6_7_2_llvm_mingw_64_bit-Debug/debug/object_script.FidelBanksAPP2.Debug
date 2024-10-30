@@ -1,0 +1,11 @@
+debug/addbox.o
+debug/findbox.o
+debug/finddelbox.o
+debug/main.o
+debug/mainwindow.o
+debug/updatebox.o
+debug/moc_addbox.o
+debug/moc_findbox.o
+debug/moc_finddelbox.o
+debug/moc_mainwindow.o
+debug/moc_updatebox.o
